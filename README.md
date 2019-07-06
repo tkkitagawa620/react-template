@@ -6,5 +6,5 @@ As a default, it enables you to use
 - React Router
 - Redux
 
-... which are fundamental function that supports most of the web apps.
+
 See package.json for more more packages.
